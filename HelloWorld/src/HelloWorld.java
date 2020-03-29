@@ -98,6 +98,7 @@ public class HelloWorld {
         }
         catch(Exception e) {
             System.err.println("Napaka: " + e);
+            System.err.println("Sprememba za github");
         }
 
 
